@@ -18,8 +18,8 @@ These are 3 endpoints that represent e-commerce characteristics :
 3. Search specific items       -> /api/products/search?q=iphone
 
 For the Scenario we are using 3 types of concurrent users :
-10 users  -> Low workload
-50 usesr  -> Medium workload
-100 users -> High workload
+- 10 users  -> Low workload
+- 50 usesr  -> Medium workload
+- 100 users -> High workload
 
 
